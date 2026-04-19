@@ -55,7 +55,7 @@
 ---
 
 ## 3. Demo Video,
-[YouTube URL ](这里粘贴你的视频地址)
+[YouTube URL ](https://youtu.be/Q_4eeSatcXA)
 - Content: How to run + How to play
 
 ---
@@ -70,3 +70,4 @@
  1. Download : asd.z01, asd.z02, asd.zip
  2. Extract the files 
  3. run x.exe
+ 4. Comments:Exit use ALT + F4
